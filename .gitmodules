@@ -1,0 +1,4 @@
+[submodule "ningjiangblog/public"]
+	path = ningjiangblog/public
+	url = https://github.com/JaneJiang0721/ning.github.io
+	branch = main
